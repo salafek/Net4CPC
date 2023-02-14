@@ -1,5 +1,6 @@
 # Net4CPC
-Net4CPC is an Ethernet interface for the [Amstrad CPC](https://www.cpcwiki.eu/index.php/CPC) range of computers.</br>
+Net4CPC is an Ethernet interface for the [Amstrad CPC](https://www.cpcwiki.eu/index.php/CPC) range of computers.</br></br>
+![Net4CPC PCB](https://github.com/salafek/Net4CPC/blob/main/pictures/Net4CPC-pcb.png)
 ## Notes
 The interface has a [Mother X4](https://cpcrulez.fr/hardware-interface-mother_x4.htm) compatible connector.</br> 
 The network module is based on the [WIZnet's W5100S](https://www.wiznet.io/product-item/w5100s/) embedded ethernet controller and works in indirect parallel bus mode.</br>
