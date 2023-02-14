@@ -11,6 +11,6 @@ In this mode it needs 4 I/O ports:
 
 The PCB has provision for 2 differrent types of Ethernet modules:
 - A chineese [W5100S module](https://www.aliexpress.com/w/wholesale-%22W5100S-Network-Module%22-parallel.html?catId=0&initiative_id=SB_20230206005326&SearchText=%22W5100S%20Network%20Module%22%20parallel&spm=a2g0o.productlist.1000002.0) with an integrated 3.3V regulator.</br> ![W5100S module](https://github.com/salafek/cyboard-for-cpc/blob/main/pictures/w5100s-module.png)
-- The original WIZnet's [W5100S](https://github.com/Wiznet/Hardware-Files-of-WIZnet/tree/master/05_Network_Module/WIZ810SMJ) or [W6100](https://github.com/Wiznet/Hardware-Files-of-WIZnet/tree/master/05_Network_Module/WIZ610MJ) modules.</br> <img src="https://github.com/Wiznet/Hardware-Files-of-WIZnet/blob/master/05_Network_Module/WIZ810SMJ/Pictures/WIZ810SMJ_1.png" width="300" height="200">
+- The original WIZnet's [W5100S](https://github.com/Wiznet/Hardware-Files-of-WIZnet/tree/master/05_Network_Module/WIZ810SMJ) or [W6100](https://github.com/Wiznet/Hardware-Files-of-WIZnet/tree/master/05_Network_Module/WIZ610MJ) modules.</br> <img src="https://github.com/Wiznet/Hardware-Files-of-WIZnet/blob/master/05_Network_Module/WIZ810SMJ/Pictures/WIZ810SMJ_1.png" width="300" height="230"><img src="https://github.com/Wiznet/Hardware-Files-of-WIZnet/blob/master/05_Network_Module/WIZ610MJ/Pictures/WIZ610MJ1.png" width="400" height="300">
 ## Build info
 The schematic and layout were generated with Autodesk EAGLE 9.6.2 free edition</br>
