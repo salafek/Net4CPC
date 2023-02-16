@@ -1,5 +1,7 @@
 # Net4CPC
-Net4CPC is an Ethernet interface for the [Amstrad CPC](https://www.cpcwiki.eu/index.php/CPC) range of computers.</br></br>
+Net4CPC is an Ethernet interface for the [Amstrad CPC](https://www.cpcwiki.eu/index.php/CPC) range of computers.</br>
+It is a stand alone implemetation of the Ethernet interface found on the [Cyboard](https://github.com/salafek/cyboard-for-cpc).</br>
+</br>
 ![Net4CPC PCB](https://github.com/salafek/Net4CPC/blob/main/pictures/Net4CPC-pcb.png)
 <img src="https://github.com/salafek/Net4CPC/blob/main/pictures/Net4CPC-sch.png" width="800" height="600">
 ## Notes
