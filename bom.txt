@@ -12,7 +12,7 @@ D1            1N4148                DO35-7                2368-1N4148-ND
 D2            1N4148                DO35-7                2368-1N4148-ND
 IC1           74LS30N               DIL14                 296-3693-5-ND
 IC2           74LS32N               DIL14                 296-1658-5-ND
-IC3           74LS32N               DIL20                 296-1658-5-ND
+IC3           74LS32N               DIL14                 296-1658-5-ND
 IC4           AMS1117-3.3           SOT-223               4518-AMS1117-3.3TR-ND
 R4            470                   0204/0207             MFR-25FRF52-470R-ND
 R5            470                   0204/0207             MFR-25FRF52-470R-ND
