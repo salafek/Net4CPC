@@ -18231,8 +18231,8 @@ Standard adjustable voltage regulator but in SMD form. Spark Fun Electronics SKU
 <part name="+3V2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
 <part name="P+4" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="IC4" library="SparkFun" deviceset="V_REG_LM1117" device="SOT223" value="AMS1117-3.3"/>
-<part name="C4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="E5-6" package3d_urn="urn:adsk.eagle:package:23368/1" value="1uF"/>
-<part name="C5" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="E5-6" package3d_urn="urn:adsk.eagle:package:23368/1" value="1uF"/>
+<part name="C4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="E5-6" package3d_urn="urn:adsk.eagle:package:23368/1" value="1uF/16V"/>
+<part name="C5" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="E5-6" package3d_urn="urn:adsk.eagle:package:23368/1" value="1uF/16V"/>
 </parts>
 <sheets>
 <sheet>
@@ -18246,7 +18246,7 @@ Standard adjustable voltage regulator but in SMD form. Spark Fun Electronics SKU
 <wire x1="81.28" y1="66.04" x2="142.24" y2="66.04" width="0.1524" layer="95" style="shortdash"/>
 <wire x1="142.24" y1="66.04" x2="142.24" y2="106.68" width="0.1524" layer="95" style="shortdash"/>
 <text x="83.82" y="68.58" size="1.778" layer="95">Option 1 -W5100S Ethernet Module</text>
-<text x="157.48" y="68.58" size="1.778" layer="95">Option 2 - WIZ810SMJ/WIZ610MJ</text>
+<text x="157.48" y="68.58" size="1.778" layer="95">Option 2 - WIZ810SMJ / WIZ610MJ</text>
 </plain>
 <instances>
 <instance part="CON1" gate="G$1" x="25.4" y="167.64" smashed="yes"/>
@@ -18393,9 +18393,9 @@ Standard adjustable voltage regulator but in SMD form. Spark Fun Electronics SKU
 <attribute name="NAME" x="228.6" y="93.98" size="1.778" layer="95"/>
 <attribute name="VALUE" x="231.14" y="83.82" size="1.778" layer="96"/>
 </instance>
-<instance part="C4" gate="G$1" x="223.52" y="86.36" smashed="yes">
-<attribute name="NAME" x="224.663" y="86.8426" size="1.778" layer="95"/>
-<attribute name="VALUE" x="224.663" y="81.7626" size="1.778" layer="96"/>
+<instance part="C4" gate="G$1" x="220.98" y="86.36" smashed="yes">
+<attribute name="NAME" x="222.123" y="86.8426" size="1.778" layer="95"/>
+<attribute name="VALUE" x="222.123" y="81.7626" size="1.778" layer="96"/>
 </instance>
 <instance part="C5" gate="G$1" x="246.38" y="86.36" smashed="yes">
 <attribute name="NAME" x="247.523" y="86.8426" size="1.778" layer="95"/>
@@ -18564,7 +18564,7 @@ Standard adjustable voltage regulator but in SMD form. Spark Fun Electronics SKU
 <pinref part="IC4" gate="G$1" pin="ADJ"/>
 <pinref part="C4" gate="G$1" pin="-"/>
 <wire x1="233.68" y1="81.28" x2="233.68" y2="78.74" width="0.1524" layer="91"/>
-<wire x1="223.52" y1="81.28" x2="233.68" y2="81.28" width="0.1524" layer="91"/>
+<wire x1="220.98" y1="81.28" x2="233.68" y2="81.28" width="0.1524" layer="91"/>
 <junction x="233.68" y="81.28"/>
 <pinref part="C5" gate="G$1" pin="-"/>
 <wire x1="246.38" y1="81.28" x2="233.68" y2="81.28" width="0.1524" layer="91"/>
@@ -19096,11 +19096,11 @@ Standard adjustable voltage regulator but in SMD form. Spark Fun Electronics SKU
 <wire x1="218.44" y1="91.44" x2="218.44" y2="96.52" width="0.1524" layer="91"/>
 <pinref part="P+4" gate="1" pin="+5V"/>
 <pinref part="IC4" gate="G$1" pin="IN"/>
-<wire x1="226.06" y1="91.44" x2="223.52" y2="91.44" width="0.1524" layer="91"/>
+<wire x1="226.06" y1="91.44" x2="220.98" y2="91.44" width="0.1524" layer="91"/>
 <pinref part="C4" gate="G$1" pin="+"/>
-<wire x1="223.52" y1="91.44" x2="218.44" y2="91.44" width="0.1524" layer="91"/>
-<wire x1="223.52" y1="88.9" x2="223.52" y2="91.44" width="0.1524" layer="91"/>
-<junction x="223.52" y="91.44"/>
+<wire x1="220.98" y1="91.44" x2="218.44" y2="91.44" width="0.1524" layer="91"/>
+<wire x1="220.98" y1="88.9" x2="220.98" y2="91.44" width="0.1524" layer="91"/>
+<junction x="220.98" y="91.44"/>
 </segment>
 </net>
 <net name="+3V3" class="1">
