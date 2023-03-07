@@ -5,8 +5,8 @@ Part          Value                 Package               Digi-Key PN
 C1            .1uF                  C025/C320             399-9871-1-ND
 C2            .1uF                  C025/C320             399-9871-1-ND
 C3            .1uF                  C025/C320             399-9871-1-ND
-C4            1uF/16V               E5-06                 B41827A4105M-ND
-C5            1uF/16V               E5-06                 B41827A4105M-ND
+C4            10uF/16V              E5-06                 B41827A4105M-ND
+C5            10uF/16V              E5-06                 B41827A4105M-ND
 CON1          CPCBUS                HEADER R/A 50POS      732-5414-ND
 D1            1N4148                DO35-7                2368-1N4148-ND
 D2            1N4148                DO35-7                2368-1N4148-ND
