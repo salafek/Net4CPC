@@ -14,7 +14,7 @@ In this mode it needs 4 I/O ports:
 - #FD22: IDM_ARL - Lower 8 bits Offset Address Register
 - #FD23: IDM_DR - 8 Bits Data Register
 
-A detailed description on how to program the module, with flow diagrams and programming examples, can be found at the WizNET's official site:</br>
+A detailed description on how to program the module, with flow diagrams and programming examples, can be found at the WIZnet's official site:</br>
 [W5100S TCP Function](https://docs.wiznet.io/Product/iEthernet/W5100S/Application-Note/tcp)</br>
 [W5100S UDP Function](https://docs.wiznet.io/Product/iEthernet/W5100S/Application-Note/udp)</br>
 [SOCKET-less Command](https://docs.wiznet.io/Product/iEthernet/W5100S/Application-Note/socket-less-command)</br>
