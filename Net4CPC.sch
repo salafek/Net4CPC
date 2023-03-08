@@ -18231,8 +18231,8 @@ Standard adjustable voltage regulator but in SMD form. Spark Fun Electronics SKU
 <part name="+3V2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
 <part name="P+4" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="IC4" library="SparkFun" deviceset="V_REG_LM1117" device="SOT223" value="AMS1117-3.3"/>
-<part name="C4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="E5-6" package3d_urn="urn:adsk.eagle:package:23368/1" value="1uF/16V"/>
-<part name="C5" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="E5-6" package3d_urn="urn:adsk.eagle:package:23368/1" value="1uF/16V"/>
+<part name="C4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="E5-6" package3d_urn="urn:adsk.eagle:package:23368/1" value="10uF/16V"/>
+<part name="C5" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="E5-6" package3d_urn="urn:adsk.eagle:package:23368/1" value="10uF/16V"/>
 </parts>
 <sheets>
 <sheet>
